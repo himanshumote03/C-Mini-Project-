@@ -1,2 +1,2 @@
-# C-Mini-Project-
+# C++-Mini-Project-
 A simple mini project on Catering Services.
